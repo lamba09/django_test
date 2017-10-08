@@ -1,3 +1,17 @@
 h1 {
-    color: #236d1e;
+    color: #ffffff;
+    background-color: #426493;
+    font-family: 'Sofia';font-size: 22px;
+
 }
+
+body{
+    font-family: "Courier New", Courier, monospace;
+}
+head {
+
+}
+
+#green_thing{ color: #00ff00;}
+
+.all_red_things{ color: #ff0000;}
