@@ -26,6 +26,7 @@ SECRET_KEY = 'c(fdl2)+d-+mt-wp&qr*kxvsv$!d@id89b=zmu4b!pz&xj_a$b'
 DEBUG = True
 
 ALLOWED_HOSTS = [
+    '127.0.0.1',
     'lamba.pythonanywhere.com'
 ]
 
