@@ -25,7 +25,9 @@ SECRET_KEY = 'c(fdl2)+d-+mt-wp&qr*kxvsv$!d@id89b=zmu4b!pz&xj_a$b'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'lamba.pythonanywhere.com'
+]
 
 
 # Application definition
